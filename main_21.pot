@@ -46,8 +46,7 @@ msgid "Allow move entry for a video PGN file"
 msgstr ""
 
 #: main_21.cpp:16
-msgid ""
-"Allow move entry  :  Check to allow the user to add moves to the game move list,"
+msgid "Allow move entry  :  Check to allow the user to add moves to the game move list,"
 msgstr ""
 
 #: main_21.cpp:18
