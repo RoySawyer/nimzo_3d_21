@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 15:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_21.cpp:2
+msgid "Moves cannot be input to a video PGN file"
+msgstr "动作无法输入到视频 PGN 文件中"
+
+#: main_21.cpp:4
+msgid "unless the program is in puzzle mode,"
+msgstr "除非程序处于解谜模式，"
+
+#: main_21.cpp:6
+msgid "or the < Allow move entry > option"
+msgstr "或者“允许移动输入”选项"
+
+#: main_21.cpp:8
+msgid "is checked in the media player options."
+msgstr "已在媒体播放器选项中选中。"
+
+#: main_21.cpp:10
+msgid "Move entry message"
+msgstr "移动输入信息"
+
+#: main_21.cpp:12
+msgid "Allow move entry"
+msgstr "允许移动入口"
+
+#: main_21.cpp:14 main_21.cpp:26
+msgid "Allow move entry for a video PGN file"
+msgstr "允许移动视频 PGN 文件"
+
+#: main_21.cpp:16
+msgid "Allow move entry  :  Check to allow the user to add moves to the game move list,"
+msgstr "允许输入招式：选中此项允许用户向游戏招式列表中添加招式。"
+
+#: main_21.cpp:18
+msgid "when the PGN file has been loaded with a media player video."
+msgstr "当 PGN 文件已加载到媒体播放器视频中时。"
+
+#: main_21.cpp:20
+msgid "This means that the user can add sub-variations to the game."
+msgstr "这意味着用户可以为游戏添加子变体。"
+
+#: main_21.cpp:22
+msgid "If you are adding moves to the game, then the < Allow user input > option"
+msgstr "如果您要向游戏中添加步骤，则需要启用“<允许用户输入>”选项。"
+
+#: main_21.cpp:24
+msgid "must be checked in the Media player options dialog box."
+msgstr "必须在媒体播放器选项对话框中选中。"
