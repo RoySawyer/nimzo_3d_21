@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-16 15:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_21.cpp:2
+msgid "Moves cannot be input to a video PGN file"
+msgstr "동작은 비디오 PGN 파일에 입력할 수 없습니다."
+
+#: main_21.cpp:4
+msgid "unless the program is in puzzle mode,"
+msgstr "프로그램이 퍼즐 모드가 아닌 이상,"
+
+#: main_21.cpp:6
+msgid "or the < Allow move entry > option"
+msgstr "또는 <이동 항목 허용> 옵션"
+
+#: main_21.cpp:8
+msgid "is checked in the media player options."
+msgstr "미디어 플레이어 옵션에서 선택되어 있습니다."
+
+#: main_21.cpp:10
+msgid "Move entry message"
+msgstr "이동 입력 메시지"
+
+#: main_21.cpp:12
+msgid "Allow move entry"
+msgstr "이동 허용"
+
+#: main_21.cpp:14 main_21.cpp:26
+msgid "Allow move entry for a video PGN file"
+msgstr "비디오 PGN 파일에 대한 이동 항목을 허용합니다."
+
+#: main_21.cpp:16
+msgid "Allow move entry  :  Check to allow the user to add moves to the game move list,"
+msgstr "기보 입력 허용: 사용자가 게임 기보 목록에 기보를 추가할 수 있도록 허용하려면 이 옵션을 선택하십시오."
+
+#: main_21.cpp:18
+msgid "when the PGN file has been loaded with a media player video."
+msgstr "미디어 플레이어에서 PGN 파일이 비디오와 함께 로드되었을 때."
+
+#: main_21.cpp:20
+msgid "This means that the user can add sub-variations to the game."
+msgstr "이는 사용자가 게임에 하위 변형을 추가할 수 있음을 의미합니다."
+
+#: main_21.cpp:22
+msgid "If you are adding moves to the game, then the < Allow user input > option"
+msgstr "게임에 움직임을 추가하는 경우 <사용자 입력 허용> 옵션을 사용하세요."
+
+#: main_21.cpp:24
+msgid "must be checked in the Media player options dialog box."
+msgstr "미디어 플레이어 옵션 대화 상자에서 해당 옵션을 선택해야 합니다."
